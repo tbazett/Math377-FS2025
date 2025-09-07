@@ -1,2 +1,2 @@
 # Math377-FS2025
-This repository consists of various Jupyter Notebooks that covers models in the course Math 377 Taught at UVic in Fall Semester of 2025 by Dr. Trefor Bazett
+This repository consists of various Jupyter Notebooks that covers models in the course Math 377 Taught at UVic in Fall Semester of 2025 by Dr. Trefor Bazett. While you can view static versions of the .ipynb notebook files on Github.com, I recommend using syzygy.ca (or other Jupyter notebook platform) to clone the repository and have dynamic versions that you can edit and execute the code in yourself. 
